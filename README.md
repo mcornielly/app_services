@@ -1,5 +1,4 @@
 # app_services
-==============
 Proyecto inicial de la aplicación de Servicios de Valores
 
 Descripción del Proyecto:
