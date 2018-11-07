@@ -8,7 +8,7 @@ sus fondos a los bancos o sucursales.
 
 Desarrollado:
 ------------
-PHP v7.1.20
-Laravel Framework v5.7.8
-Servidor XAMPP v3.2.2 
-Base de Datos MySql
+-PHP v7.1.20
+-Laravel Framework v5.7.8
+-Servidor XAMPP v3.2.2 
+-Base de Datos MySql
